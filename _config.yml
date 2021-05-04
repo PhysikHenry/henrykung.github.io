@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu-Hsien Kung"
+title                    : "Yu-Hsien Kung(Henry)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu-Hsien"
+  name             : "Yu-Hsien Kung"
   avatar           : "profile.png"
   bio              : ""
   location         : "Taiwan"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   lastfm           :
   InspireHep       : "https://inspirehep.net/authors/1824620"
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7509-1424"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
