@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-Taiwan"
+locale                   : "en-US"
 title                    : "Yu-Hsien Kung"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yu-Hsien"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : ""
+  location         : "Taiwan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
